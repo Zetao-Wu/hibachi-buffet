@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hibachi-buffet/static/css/main.9790ff4c.css",
+    "main.js": "/hibachi-buffet/static/js/main.e3e3cdf5.js",
+    "static/media/buffet-about.png": "/hibachi-buffet/static/media/buffet-about.b62081dfed8eeefd98bd.png",
+    "static/media/buffet.png": "/hibachi-buffet/static/media/buffet.be382c9b38c345224201.png",
+    "static/media/buffet-bg.jpg": "/hibachi-buffet/static/media/buffet-bg.1323060e42c7983cecda.jpg",
+    "static/media/gallary1.png": "/hibachi-buffet/static/media/gallary1.f6e6e33aebb5e8083f92.png",
+    "static/media/gallary6.png": "/hibachi-buffet/static/media/gallary6.6e5c440b541bb542fd35.png",
+    "static/media/gallary4.png": "/hibachi-buffet/static/media/gallary4.5931faf27dcc49ee4b92.png",
+    "static/media/gallary5.png": "/hibachi-buffet/static/media/gallary5.b8b432fd1ae6dabf0ab6.png",
+    "static/media/gallary3.png": "/hibachi-buffet/static/media/gallary3.3046b49a6589470cbc70.png",
+    "static/media/gallary2.png": "/hibachi-buffet/static/media/gallary2.b58f73ad1579dbed1f78.png",
+    "index.html": "/hibachi-buffet/index.html",
+    "main.9790ff4c.css.map": "/hibachi-buffet/static/css/main.9790ff4c.css.map",
+    "main.e3e3cdf5.js.map": "/hibachi-buffet/static/js/main.e3e3cdf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9790ff4c.css",
+    "static/js/main.e3e3cdf5.js"
+  ]
+}
